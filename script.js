@@ -10,7 +10,7 @@ function compute()
 
     document.getElementById("result").innerHTML="if you deposit " + principal + "<br>" +
                                                 "at an interest rate of " + rate + "<br>" +
-                                                "You will recieve an amount of" + interest + ", <br>" +
+                                                "You will recieve an amount of " + interest + ", <br>" +
                                                 "in the year " + year;        
 }
 
